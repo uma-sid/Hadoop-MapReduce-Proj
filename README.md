@@ -33,7 +33,7 @@ So, here two MapReduce jobs to run sequentially are designed to achieve this. Fi
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/98278525/193547105-f54046f9-17bd-48e9-bf58-011cd9d52be3.png">
 
 ### 4.2. Implementation:
-For the complete implementation steps along with the screenshots please use the file [a relative link](Implementation_steps.pdf)
+For the complete implementation steps along with the screenshots please use the file [Implementation_steps.pdf](Implementation_steps.pdf)
 
 ## 5. Results & Evaluation
 The obtained output is in the format as shown in the below screenshot.
