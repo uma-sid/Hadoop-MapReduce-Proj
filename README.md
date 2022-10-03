@@ -33,7 +33,7 @@ So, here two MapReduce jobs to run sequentially are designed to achieve this. Fi
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/98278525/193547105-f54046f9-17bd-48e9-bf58-011cd9d52be3.png">
 
 ### 4.2. Implementation:
-For the complete implementation steps along with the screenshots please use the file Implementation_steps.pdf
+For the complete implementation steps along with the screenshots please use the file [a relative link](Implementation_steps.pdf)
 
 ## 5. Results & Evaluation
 The obtained output is in the format as shown in the below screenshot.
@@ -49,7 +49,7 @@ Observations:
 2. It is observed that irrespective of the product size the number of transactions made by the people without a car are indeed slightly declining as shown in the below screenshot.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/98278525/193548722-e71dae62-8eb8-4715-96e3-2d07cdd454b8.png">
 
-3.	It is observed that the number of customers having a car and purchasing the small sized products is not declining.![image](https://user-
+3.	It is observed that the number of customers having a car and purchasing the small sized products is not declining.
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/98278525/193548779-0eb9a14f-2e41-47b1-bf58-6d0226603409.png">
 
 4.	However, the number of customers without a car and purchasing the small sized products are declining.
